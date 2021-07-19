@@ -1,11 +1,6 @@
 
 public class Car {
 
-		private final Engine engine;
-		
-	public Car() {
-		engine = new Engine();
-	}
 	
 	
 	private String colour;
